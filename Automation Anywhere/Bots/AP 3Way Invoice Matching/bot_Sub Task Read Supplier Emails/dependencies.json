@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\AP 3Way Invoice Matching\\Sub Task Read Supplier Emails","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Scripts\\OutlookReadEmailsScript.vbs"]}
+{"path":"Automation Anywhere\\Bots\\AP 3Way Invoice Matching\\Sub Task Read Supplier Emails","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Scripts\\OutlookReadEmailsScripts.vbs"]}
